@@ -143,7 +143,7 @@ Visualization is done in Excel from the pivot table field as shown above
 ## Data Analysis
 ```
 SQL
-select from Table 1
+select * from Table 1
 where condition = true
 ```
 
