@@ -141,10 +141,9 @@ Summarization from the pivot table field will give us a good graphic /pictorial 
 Visualization is done in Excel from the pivot table field as shown above
 
 ## Data Analysis
-```
-SQL
+```SQL
 select * from Table 1
-where condition = true
+where condition = 2
 ```
 
 
