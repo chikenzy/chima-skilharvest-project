@@ -17,7 +17,16 @@ The primary source of data is MS Excel, and this is open-source data that can be
 
 ## 	Data cleaning and preparation
 Processes involved pivoting, different Excel functions
-In the initial phase of the data cleaning and preparation, the following action is performed 
+In the initial phase of the data cleaning and preparation, the following action is performed;
 1.	Data loading and inspection
 2.	Handling missing variables
 3.	Data cleaning and formatting
+
+4.	## 	Data tools used
+5.	MS Excel, (download here (https://www.microsoft.com)
+Microsoft Power Bi
+Google sheet
+Google software
+-	These are the major tools used for the analyses 
+-	Helps to pivot and analyse data
+
