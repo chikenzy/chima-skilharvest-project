@@ -1,4 +1,4 @@
-# Chima-Skilharvest-Project
+ # Chima-Skilharvest-Project
 my first documented data analysis as a student with SkilHarvest
 
 ## [Project Name](#project-name)
@@ -43,10 +43,12 @@ These are the major tools used for the analyses, Helps to pivot and analyse data
 Market
 -	the highest market by revenue and units sold 
 -	the lowest market by units sold 
-### Religion
+### Region
 -	the highest region by revenue
 -	 the lowest region by revenue 
 -	The  lowest region by unit sold-
+
+-	
 ### Store
 -	store with the highest revenue and list units sold
 Trade date
