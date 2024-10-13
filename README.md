@@ -1,5 +1,4 @@
  # Chima-Skilharvest-Project
-my first documented data analysis as a student with SkilHarvest
 
 ## [Project Name](#project-name)
 ## [Project Overview](#project-overview)
@@ -45,8 +44,10 @@ Market
 -	the lowest market by units sold 
 ### Region
 -	the highest region by revenue
--	 the lowest region by revenue 
--	The  lowest region by unit sold-
+-	 
+-	 https://github.com/chikenzy/chima-skilharvest-project/blob/main/r%20top%205%20reg%20by%20rev.png
+-	The  lowest region by unit sold
+-	-https://github.com/chikenzy/chima-skilharvest-project/blob/main/r%20lowest%20region%20by%20uni%20sold.png
 
 -	
 ### Store
