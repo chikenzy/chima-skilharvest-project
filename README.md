@@ -23,10 +23,72 @@ In the initial phase of the data cleaning and preparation, the following action 
 3.	Data cleaning and formatting
 
 4.	## 	Data tools used
-5.	MS Excel, [download here](https://www.microsoft.com)
+5.	MS Excel [download here](https://www.microsoft.com)
   - Microsoft Power Bi
   - Google sheet
   -Google software
 
 These are the major tools used for the analyses, Helps to pivot and analyse data
+
+## Exploratory Data analysis(EDA)
+ This involves Exploring data to answer some questions about the data such as,
+Market
+-	the highest market by revenue and units sold 
+-	the lowest market by units sold 
+Religion
+-	the highest region by revenue
+-	 the lowest region by revenue 
+-	The  lowest region by unit sold-
+Store
+-	store with the highest revenue and list units sold
+Trade date
+-	trade date with the highest revenue as well as the highest unit sold
+Model
+-	the model with the least units sold, compared with that of the highest unit sold
+-	model with the highest revenue Line of business 
+Line of Business
+-	what line of business generated the highest revenue
+-	line of business with the list unit 
+ Day Category
+-	 highest day category by revenue and units sold 
+-	Lowest day category by unit sold 
+
+The above questions will be answered using the pivot analysis, and the process involves;
+I.	Access the data
+II.	Have a critical study of the data
+III.	With the use of the ‘IF’ function, access the category of the units sold to have a holistic view of their performance rate in terms of sales
+IV.	Pivot Table field
+-	To access the pivot data table field;
+-	Highlight the data by pressing shft + ctr + rgt + dwn key
+-	Go to insert
+-	Pivot table
+-	Select a table or range on the field 
+-	Select a new worksheet
+-	Select OK
+-	You will be brought to a new worksheet with a PIVOT TABLE FIELD
+V.	The Pivot Field
+The essence of the pivot field is for ease of summarization of data based on the data you are working with.
+It has 4 major components;
+-	Row: data to appear horizontally
+-	Column: data to appear in the column field
+-	Value: for data that appears as aggregate functions
+-	Filter: to filter data on a row or column
+VI.	Summarization
+-	Go to the pivot table field
+-	Click on the field for rows and /or columns for the non-aggregates functions
+-	Click on the value field to get the aggregates function
+To filter for the top or least
+-	Right click
+-	Click top 10
+-	Reduce it to the value you want to summarize it to
+-	Click bottom or top( as the case may be)
+-	OK
+To sort for the highest or lowest
+-	Right click
+-	Click sort
+-	Sort smallest to largest or vice versa
+-	OK
+To visualize
+-	Click fn+alt+f1 function
+-	Copy and paste it on your new worksheet
 
