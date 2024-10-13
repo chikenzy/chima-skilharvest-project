@@ -2,7 +2,13 @@
 my first documented data analysis as a student with SkilHarvest
 
 ## 	[Project Name](#project-name)
-## Project Overview
+## [Project Overview](#project-overview)
+## [Data source](#data-source)
+## 	[Data cleaning and preparation](data-cleaning-and-preparation)
+## 	[Data tools used](#data-tools-used)
+## [Exploratory Data analysis(EDA)](#Exploratory-data-analysis(EDA))
+## [Report/Visualization](#report-visualization)
+
 ## 	Project Name
 Analytical performance of Chikenzie Business Enterprise
 
