@@ -45,9 +45,9 @@ Market
 ### Region
 -	the highest region by revenue
 -	 
--	 https://github.com/chikenzy/chima-skilharvest-project/blob/main/r%20top%205%20reg%20by%20rev.png
+-	 (https://github.com/chikenzy/chima-skilharvest-project/blob/main/r%20top%205%20reg%20by%20rev.png)
 -	The  lowest region by unit sold
--	-https://github.com/chikenzy/chima-skilharvest-project/blob/main/r%20lowest%20region%20by%20uni%20sold.png
+-	(https://github.com/chikenzy/chima-skilharvest-project/blob/main/r%20lowest%20region%20by%20uni%20sold.png)
 
 -	
 ### Store
