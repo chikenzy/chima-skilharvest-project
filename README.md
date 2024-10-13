@@ -1,11 +1,11 @@
 # Chima-Skilharvest-Project
 my first documented data analysis as a student with SkilHarvest
 
-## 	[Project Name](#project-name)
+## [Project Name](#project-name)
 ## [Project Overview](#project-overview)
 ## [Data source](#data-source)
-## 	[Data cleaning and preparation](data-cleaning-and-preparation)
-## 	[Data tools used](#data-tools-used)
+## [Data cleaning and preparation](#data-cleaning-and-preparation)
+## [Data tools used](#data-tools-used)
 ## [Exploratory Data analysis(EDA)](#Exploratory-data-analysis(EDA))
 ## [Report/Visualization](#report-visualization)
 
