@@ -1,7 +1,7 @@
 # Chima-Skilharvest-Project
 my first documented data analysis as a student with SkilHarvest
 
-## 	Project Name
+## 	[Project Name](#project-name)
 ## Project Overview
 ## 	Project Name
 Analytical performance of Chikenzie Business Enterprise
