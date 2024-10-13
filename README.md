@@ -44,12 +44,11 @@ Market
 -	the lowest market by units sold 
 ### Region
 -	the highest region by revenue
- 
+-	<img width="488" alt="r top 5 reg by rev" src="https://github.com/user-attachments/assets/5c0884a7-5a5a-45a1-9b34-f786327f09b7">
+
 -	The  lowest region by unit sold
+<img width="479" alt="r lowest region by uni sold" src="https://github.com/user-attachments/assets/21742845-dc52-43b5-82f7-6d9c670d22fc">
 
-<img width="479" alt="r lowest region by uni sold" src="https://github.com/user-attachments/assets/e567eaaa-97b4-44e7-923d-63c1e7b811c4">
-
--	
 ### Store
 -	store with the highest revenue and list units sold
 Trade date
