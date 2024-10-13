@@ -138,5 +138,13 @@ It has 4 major components;
 
 ## Report/Visualization
 Summarization from the pivot table field will give us a good graphic /pictorial /chart of the analysis for ease of understanding and comprehension.
-Visualization is done in Excel from the pivot table field thus;
+Visualization is done in Excel from the pivot table field as shown above
+
+## Data Analysis
+```
+SQL
+select from Table 1
+where condition = true
+```
+
 
