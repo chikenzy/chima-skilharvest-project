@@ -44,25 +44,57 @@ Market
 -	the lowest market by units sold 
 ### Region
 -	the highest region by revenue
--	<img width="488" alt="r top 5 reg by rev" src="https://github.com/user-attachments/assets/5c0884a7-5a5a-45a1-9b34-f786327f09b7">
+  
+   <img width="488" alt="r top 5 reg by rev" src="https://github.com/user-attachments/assets/5c0884a7-5a5a-45a1-9b34-f786327f09b7">
 
 -	The  lowest region by unit sold
+  
 <img width="479" alt="r lowest region by uni sold" src="https://github.com/user-attachments/assets/21742845-dc52-43b5-82f7-6d9c670d22fc">
 
 ### Store
--	store with the highest revenue and list units sold
-Trade date
--	trade date with the highest revenue as well as the highest unit sold
+-	store with the highest revenue
+  
+  <img width="515" alt="st top store by rev" src="https://github.com/user-attachments/assets/2de18cb6-d5c5-422f-851d-1c2f8484a9d8">
+
+-	store with the least units sold
+  
+<img width="488" alt="st bot store b uni " src="https://github.com/user-attachments/assets/5ddc230c-4caf-49b8-a75b-477ff12a6a29">
+
+### Trade date
+-	trade date with the highest revenue
+  
+<img width="427" alt="tt top trade date b rev" src="https://github.com/user-attachments/assets/48b1301c-2e71-431c-b2ad-9315939c9fb7">
+ 
+-	 as well as the highest unit sold
+<img width="506" alt="tt top trade date by uni" src="https://github.com/user-attachments/assets/873f4707-7091-48ef-aaa2-7f4fd4bc4c23">
+
 ### Model
--	the model with the least units sold, compared with that of the highest unit sold
--	model with the highest revenue Line of business 
+-	the model with the top units sold
+  
+<img width="484" alt="m top model by uni" src="https://github.com/user-attachments/assets/825e765f-1a13-4fb9-885f-6def49f0434b">
+
+-	model with that of the bottom 5 unit sold
+
+<img width="454" alt="m bot model by uni" src="https://github.com/user-attachments/assets/2594ff47-952e-405d-9f33-ade45afaa908">
+
 ### Line of Business
 -	what line of business generated the highest revenue
--	line of business with the list unit
-   
+
+<img width="496" alt="l top  line of biz" src="https://github.com/user-attachments/assets/d24371e8-b6a4-4b46-975c-2a21e0f653d6">
+
+-	line of business with the least unit
+
+<img width="499" alt="l bot line of biz by uni sold" src="https://github.com/user-attachments/assets/13cd21d8-38bc-4538-9e59-975cd1f486bd">
+
 ###  Day Category
--	 highest day category by revenue and units sold 
+-	 highest day category by revenue and units sold
+
+<img width="404" alt="dc top day category by rev" src="https://github.com/user-attachments/assets/c78b3719-a7f5-4ef4-b778-eca8ba419f6a">
+
+ 
 -	Lowest day category by unit sold 
+
+<img width="470" alt="dc bot day cat by uni" src="https://github.com/user-attachments/assets/5b2284c6-90f9-4113-9d06-6b76301832eb">
 
 The above questions will be answered using the pivot analysis, and the process involves;
   I.	Access the data
