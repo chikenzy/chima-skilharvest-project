@@ -2,6 +2,8 @@
 my first documented data analysis as a student with SkilHarvest
 
 ## 	Project Name
+## Project Overview
+## 	Project Name
 Analytical performance of Chikenzie Business Enterprise
 
 ## Project Overview
@@ -93,4 +95,8 @@ It has 4 major components;
 #### visualize
 -	Click fn+alt+f1 function
 -	Copy and paste it on your new worksheet
+
+## Report/Visualization
+Summarization from the pivot table field will give us a good graphic /pictorial /chart of the analysis for ease of understanding and comprehension.
+Visualization is done in Excel from the pivot table field thus;
 
