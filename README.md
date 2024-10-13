@@ -14,3 +14,10 @@ The primary source of data is MS Excel, and this is open-source data that can be
   -  FRED
   -   repository site
   -    google 
+
+## 	Data cleaning and preparation
+Processes involved pivoting, different Excel functions
+In the initial phase of the data cleaning and preparation, the following action is performed 
+1.	Data loading and inspection
+2.	Handling missing variables
+3.	Data cleaning and formatting
