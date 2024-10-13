@@ -23,10 +23,10 @@ In the initial phase of the data cleaning and preparation, the following action 
 3.	Data cleaning and formatting
 
 4.	## 	Data tools used
-5.	MS Excel, (download here (https://www.microsoft.com)
-Microsoft Power Bi
-Google sheet
-Google software
--	These are the major tools used for the analyses 
--	Helps to pivot and analyse data
+5.	MS Excel, [download here](https://www.microsoft.com)
+  - Microsoft Power Bi
+  - Google sheet
+  -Google software
+
+These are the major tools used for the analyses, Helps to pivot and analyse data
 
