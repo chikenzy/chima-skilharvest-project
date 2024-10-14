@@ -58,7 +58,8 @@ Market
 
 -	The  lowest region by unit sold
   
-<img width="479" alt="r lowest region by uni sold" src="https://github.com/user-attachments/assets/21742845-dc52-43b5-82f7-6d9c670d22fc">
+<img width="479" alt="r lowest region by uni sold" src="https://github.com/user-attachments/assets/147732aa-8c4b-42db-8b3e-d5cf4e25d570">
+
 
 ### Store
 -	store with the highest revenue
@@ -104,6 +105,12 @@ Market
 -	Lowest day category by unit sold 
 
 <img width="470" alt="dc bot day cat by uni" src="https://github.com/user-attachments/assets/5b2284c6-90f9-4113-9d06-6b76301832eb">
+
+### category
+category based on unit sold
+
+<img width="431" alt="category" src="https://github.com/user-attachments/assets/b514ed0d-aa81-466f-a220-8901185bc5c9">
+
 
 The above questions will be answered using the pivot analysis, and the process involves;
   I.	Access the data
