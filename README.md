@@ -10,12 +10,13 @@
 
 ## table and charts
 ### [Region](#region) 
-### [Store](store)
-### [Trade date](trade-date)
-### [Model](model)
-## 	[Project Name](project-name)
-### [Line of Business](line-of-business)
-### [Day Category](day-category)
+### [Store](#store)
+### [Trade date](#trade-date)
+### [Model](#model)
+### [Line of Business](#line-of-business)
+### [Day Category](#day-category)
+
+## Project Name
 
 Analytical performance of Chikenzie Business Enterprise
 
