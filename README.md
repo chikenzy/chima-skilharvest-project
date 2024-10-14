@@ -8,7 +8,15 @@
 ## [Exploratory Data analysis(EDA)](#Exploratory-data-analysis(EDA))
 ## [Report Visualization](#report-visualization)
 
-## 	Project Name
+## table and charts
+### [Region](#region) 
+### [Store](store)
+### [Trade date](trade-date)
+### [Model](model)
+## 	[Project Name](project-name)
+### [Line of Business](line-of-business)
+### [Day Category](day-category)
+
 Analytical performance of Chikenzie Business Enterprise
 
 ## Project Overview
