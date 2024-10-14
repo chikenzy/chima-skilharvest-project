@@ -8,13 +8,13 @@
 ## [Exploratory Data analysis(EDA)](#Exploratory-data-analysis(EDA))
 ## [Report Visualization](#report-visualization)
 
-## table and charts
-### [Region](#region) 
-### [Store](#store)
-### [Trade date](#trade-date)
-### [Model](#model)
-### [Line of Business](#line-of-business)
-### [Day Category](#day-category)
+### table and charts
+ - [Region](#region) 
+ - [Store](#store)
+ - [Trade date](#trade-date)
+ - [Model](#model)
+ - [Line of Business](#line-of-business)
+ - [Day Category](#day-category)
 
 ## Project Name
 
@@ -161,5 +161,22 @@ Visualization is done in Excel from the pivot table field as shown above
 select * from Table 1
 where condition = 2
 ```
+
+## Analysis Result and Summary
+### Sales Performance Overview:
+
+ •	Region(bold): The Southwest region leads in revenue generation with 29.38%, while the North-Central region has the lowest unit sales at 9.44%.
+ 
+ •	Store: Ankpa store tops revenue with 24.95%, whereas Boki store has the lowest unit sales at 0.13%.
+ 
+ •	Trade Date: The highest revenue was recorded on 28th February 2014 with 23.93%, and the lowest sales date was 1st March with 3,016 units sold.
+ 
+ •	Model: Model 3002C is the best-seller with 30.08% of units sold, while model 4500P has the lowest sales at 6.89%.
+ 
+ •	Line of Business: The service plan dominates sales by revenue at 71.02%, and printers have the lowest unit sales at 1.63%.
+ 
+ •	Day Category: Workdays see the highest sales by revenue at 94.55%, with local holidays having the lowest unit sales at 0.35%.
+ 
+ •	Sales Range Category: Medium sales account for 53.05% of units sold, high sales at 30.67%, and low sales at 16.28%.
 
 
